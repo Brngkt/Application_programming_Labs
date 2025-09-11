@@ -1,2 +1,2 @@
 # Application_programming_Labs
-Application programming Labs
+Здесь размещены лаботаторные работы по дисциплине "Прикладное программирование"
